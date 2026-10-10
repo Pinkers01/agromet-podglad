@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://DOMEIN-NOG-TE-KIEZEN.example/sitemap.xml

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Agromet"><g id="znak">
+<circle cx="64" cy="64" r="56" fill="#222B30"/>
+<path d="M64 64 m-46 0 a46 46 0 0 1 92 0" fill="none" stroke="#2F3A40" stroke-width="0"/>
+<path d="M28 90 C33 66 46 42 64 22 C66 44 60 68 51 90 Z" fill="#6FBF4A"/>
+<path d="M100 90 C95 66 82 42 64 22 C62 44 68 68 77 90 Z" fill="#3E9A3A"/>
+<path d="M46 90 L64 60 L82 90 Z" fill="#FFC20E"/>
+<rect x="26" y="96" width="76" height="7" rx="3.5" fill="#9AA7AD"/>
+</g></svg>

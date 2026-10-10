@@ -1,0 +1,216 @@
+{
+ "_opis": "PRZYKLADOWE DANE DO PODMIANY przez Pinky'ego. Pozycje i zdjecia sa poglądowe (Wikimedia Commons, zob. CREDITS.md). Pole 'name' ma 4 jezyki; 'specs' to tokeny z tekst.py (s.*).",
+ "voorbeeld": true,
+ "items": [
+  {
+   "id": "w-4070",
+   "cat": "laders",
+   "brand": "Weidemann",
+   "cond": "gebruikt",
+   "name": {
+    "nl": "Wiellader 4070 klasse",
+    "pl": "Ładowarka kołowa klasy 4070",
+    "en": "Wheel loader 4070 class",
+    "de": "Radlader Klasse 4070"
+   },
+   "specs": [
+    "euro",
+    "knik",
+    "pallet"
+   ],
+   "img": "hero-radlader"
+  },
+  {
+   "id": "w-2060",
+   "cat": "laders",
+   "brand": "Weidemann",
+   "cond": "gebruikt",
+   "name": {
+    "nl": "Compactlader 2060 klasse",
+    "pl": "Ładowarka kompaktowa klasy 2060",
+    "en": "Compact loader 2060 class",
+    "de": "Kompaktlader Klasse 2060"
+   },
+   "specs": [
+    "euro",
+    "veeg"
+   ],
+   "img": "laadschop-veegmachine"
+  },
+  {
+   "id": "w-1390",
+   "cat": "laders",
+   "brand": "Weidemann",
+   "cond": "gebruikt",
+   "name": {
+    "nl": "Wiellader 1390 klasse",
+    "pl": "Ładowarka kołowa klasy 1390",
+    "en": "Wheel loader 1390 class",
+    "de": "Radlader Klasse 1390"
+   },
+   "specs": [
+    "euro",
+    "cab"
+   ],
+   "img": "radlader-sneeuw"
+  },
+  {
+   "id": "w-5080t",
+   "cat": "laders",
+   "brand": "Weidemann",
+   "cond": "nieuw",
+   "name": {
+    "nl": "Telescooplader 5080T klasse",
+    "pl": "Ładowarka teleskopowa klasy 5080T",
+    "en": "Telescopic loader 5080T class",
+    "de": "Teleskoplader Klasse 5080T"
+   },
+   "specs": [
+    "euro",
+    "tele"
+   ],
+   "img": "teleradlader"
+  },
+  {
+   "id": "g-1",
+   "cat": "laders",
+   "brand": "GIANT",
+   "cond": "nieuw",
+   "name": {
+    "nl": "Compactlader GIANT klasse",
+    "pl": "Ładowarka kompaktowa klasy GIANT",
+    "en": "Compact loader GIANT class",
+    "de": "Kompaktlader GIANT-Klasse"
+   },
+   "specs": [
+    "euro",
+    "vol"
+   ],
+   "img": "laadschop-bak"
+  },
+  {
+   "id": "t-1",
+   "cat": "tractoren",
+   "brand": "neutraal",
+   "cond": "gebruikt",
+   "name": {
+    "nl": "Trekker met voorlader en grijper",
+    "pl": "Traktor z ładowaczem i chwytakiem",
+    "en": "Tractor with front loader and grab",
+    "de": "Traktor mit Frontlader und Greifer"
+   },
+   "specs": [
+    "vl",
+    "grab"
+   ],
+   "img": "tractor-grijper"
+  },
+  {
+   "id": "t-2",
+   "cat": "tractoren",
+   "brand": "neutraal",
+   "cond": "gebruikt",
+   "name": {
+    "nl": "Trekker met balenklem",
+    "pl": "Traktor z chwytakiem do bel",
+    "en": "Tractor with bale clamp",
+    "de": "Traktor mit Ballenzange"
+   },
+   "specs": [
+    "vl",
+    "bale"
+   ],
+   "img": "balenklem"
+  },
+  {
+   "id": "a-pallet",
+   "cat": "aanbouwdelen",
+   "brand": "neutraal",
+   "cond": "nieuw",
+   "name": {
+    "nl": "Palletvork 2000 kg",
+    "pl": "Widły paletowe 2000 kg",
+    "en": "Pallet fork 2000 kg",
+    "de": "Palettengabel 2000 kg"
+   },
+   "specs": [
+    "euro",
+    "w2000"
+   ],
+   "fits": "GIANT, Weidemann",
+   "img": "hero-radlader"
+  },
+  {
+   "id": "a-bak",
+   "cat": "aanbouwdelen",
+   "brand": "neutraal",
+   "cond": "nieuw",
+   "name": {
+    "nl": "Volumebak",
+    "pl": "Łyżka objętościowa",
+    "en": "Volume bucket",
+    "de": "Volumenschaufel"
+   },
+   "specs": [
+    "euro",
+    "wide"
+   ],
+   "fits": "GIANT, Weidemann",
+   "img": "laadschop-bak"
+  },
+  {
+   "id": "a-rots",
+   "cat": "aanbouwdelen",
+   "brand": "neutraal",
+   "cond": "nieuw",
+   "name": {
+    "nl": "Steenbak",
+    "pl": "Łyżka do kamieni",
+    "en": "Rock bucket",
+    "de": "Steinschaufel"
+   },
+   "specs": [
+    "euro",
+    "grid"
+   ],
+   "fits": "GIANT, Weidemann",
+   "img": "rotsbak"
+  },
+  {
+   "id": "a-balen",
+   "cat": "aanbouwdelen",
+   "brand": "neutraal",
+   "cond": "nieuw",
+   "name": {
+    "nl": "Balenklem rond en vierkant",
+    "pl": "Chwytak do bel okrągłych i kwadratowych",
+    "en": "Bale clamp, round and square",
+    "de": "Ballenzange rund und eckig"
+   },
+   "specs": [
+    "euro",
+    "round"
+   ],
+   "fits": "GIANT, Weidemann",
+   "img": "balenklem"
+  },
+  {
+   "id": "a-grijper",
+   "cat": "aanbouwdelen",
+   "brand": "neutraal",
+   "cond": "nieuw",
+   "name": {
+    "nl": "Krokodilgrijper",
+    "pl": "Chwytak krokodyl",
+    "en": "Crocodile grab",
+    "de": "Krokodilgreifer"
+   },
+   "specs": [
+    "euro",
+    "hyd"
+   ],
+   "fits": "GIANT, Weidemann",
+   "img": "tractor-grijper"
+  }
+ ]
+}

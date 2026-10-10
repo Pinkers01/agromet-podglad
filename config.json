@@ -1,0 +1,17 @@
+{
+  "wersja": "1.0.0",
+  "wylaczona": false,
+  "_kill_switch": "Ustaw \"wylaczona\": true, aby pokazac plansze Wkrotce na calej stronie.",
+  "marka": "Agromet",
+  "podpis": "Pinky Creative Studio",
+  "domena": "",
+  "kontakt": {
+    "_uwaga": "PLACEHOLDERY do uzupelnienia przez Pinky'ego. Puste pole = na stronie 'nog in te vullen'. Nie zmyslac danych.",
+    "email": "",
+    "telefon": "",
+    "adres": "",
+    "kvk": "",
+    "btw": "",
+    "kleinanzeigen": "https://www.kleinanzeigen.de/pro/kp-benelux"
+  }
+}
